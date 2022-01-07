@@ -29,6 +29,6 @@
     "cspell": "^5.9.0",
     "markdownlint-cli": "^0.28.1",
     "prettier": "^2.3.2",
-    "@school-as-code/school-as-code-package": "^0.0.8"
+    "@school-as-code/school-as-code-package": "1.0.0"
   }
 }
